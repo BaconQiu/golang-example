@@ -2,9 +2,7 @@
 package main
 
 import (
-	"net"
 	"net/http"
-	"time"
 )
 
 func main() {
