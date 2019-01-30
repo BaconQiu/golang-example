@@ -1,4 +1,4 @@
-// with reference to https://tomaz.lovrec.eu/posts/graceful-server-restart/
+// 参考 https://tomaz.lovrec.eu/posts/graceful-server-restart/
 package main
 
 import (
